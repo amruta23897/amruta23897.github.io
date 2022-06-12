@@ -1,7 +1,15 @@
-# Welcome to Amruta's resume
+# Welcome to Amruta's page
 
-## CONTACT ME :
-**gmail :** amrutavmahajani@gmail.com  **contact :** +91-9075198529  **linkedin :** [https://www.linkedin.com/in/amruta-mahajani/](url)
+[Image](https://drive.google.com/file/d/1FHBXHpT5JdGkgTrgCIbttPLuwl1KmWk0/view?usp=drivesdk)
+
+
+
+### CONTACT ME :
+**gmail :**    amrutavmahajani@gmail.com  
+**contact :**  +91-9075198529  
+**linkedin :** [Linkedin Profile](https://www.linkedin.com/in/amruta-mahajani/)
+
+
 
 
 ### Industry/Domain Telecom : Testing Strategy & Planning
@@ -9,7 +17,11 @@
 ### Concepts/Courses Agile  : DevOps, Scrum
 ### Language                : Core Java, MySQL
 
+
+
+
 ## EXPERIENCE
+
 ### Application Development Analyst at Accenture 
 _Aug 2019 — present_
 
@@ -31,25 +43,32 @@ _Aug 2019 — present_
   and testing methodologies like Agile/Scrum.
 ```
 
+
+
+
 ## Work ACHIEVEMENTS
  
-Timely Delivery & Scripts Execution
+- Timely Delivery & Scripts Execution
 - P3-Advanced proficiency level in CRM. 
 - Often received recognition from leads and managers for significant contribution in delivery of 
   quality release. 
 - Winner of Communications and Media Contest during Industrial Summit- 2021.
 
+
+
 ## CERTIFICATIONS AND LEARNINGS
 
 - Successfully passed the Microsoft Azure Fundamentals (AZ-900) exam.
 
+
+
 ## EDUCATION
 
 ### NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN
-Bachelor of Engineering in Information Technology CGPA 8.78/10
+- Bachelor of Engineering in Information Technology CGPA 8.78/10
 
 ### JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN 
-passed HSC and SSC with 89.60% and 90.20% respectively.
+- passed HSC and SSC with 89.60% and 90.20% respectively.
 
 
 ### Markdown
