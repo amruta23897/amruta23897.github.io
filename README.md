@@ -1,7 +1,6 @@
 # Welcome to Amruta's page
 
-![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/IMG-6679.JPG?raw=true|width=100px)
-<img width=”250" height=”400" src=”https://github.com/amruta23897/amruta23897.github.io/blob/main/IMG-6679.JPG?raw=true" />
+![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/IMG-6679.JPG?raw=true)
 
 
 ### CONTACT ME :
