@@ -1,6 +1,6 @@
 # Welcome to Amruta's page
 
-[Image](https://drive.google.com/file/d/1FHBXHpT5JdGkgTrgCIbttPLuwl1KmWk0/view?usp=drivesdk)
+![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/[branch]/IMG-6679.jpg?raw=true)
 
 
 
