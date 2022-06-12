@@ -12,8 +12,11 @@
 
 
 **Industry/Domain Telecom :** Testing Strategy & Planning
+
 **Technology/Tools        :** CRM, Selenium, Jira, OSM, CUR,Customer Center, Oracle SQL developer, AIA,TIL, MNP, ASAP, FMW, SOA, UIM, Putty
+
 **Concepts/Courses Agile  :** DevOps, Scrum
+
 **Language                :** Core Java, MySQL
 
 
