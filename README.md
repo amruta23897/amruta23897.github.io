@@ -1,6 +1,6 @@
 # Welcome to Amruta's page
 
-![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/IMG-6679.JPG?raw=true)
+![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/IMG-6679.JPG|width=100px?raw=true)
 
 
 
@@ -12,10 +12,10 @@
 
 
 
-### Industry/Domain Telecom : Testing Strategy & Planning
-### Technology/Tools        : CRM, Selenium, Jira, OSM, CUR,Customer Center, Oracle SQL developer, AIA,TIL, MNP, ASAP, FMW, SOA, UIM, Putty
-### Concepts/Courses Agile  : DevOps, Scrum
-### Language                : Core Java, MySQL
+**Industry/Domain Telecom :** Testing Strategy & Planning
+**Technology/Tools        :** CRM, Selenium, Jira, OSM, CUR,Customer Center, Oracle SQL developer, AIA,TIL, MNP, ASAP, FMW, SOA, UIM, Putty
+**Concepts/Courses Agile  :** DevOps, Scrum
+**Language                :** Core Java, MySQL
 
 
 
@@ -47,22 +47,26 @@ _Aug 2019 — present_
 
 
 ## Work ACHIEVEMENTS
- 
+
+```markdown
 - Timely Delivery & Scripts Execution
 - P3-Advanced proficiency level in CRM. 
 - Often received recognition from leads and managers for significant contribution in delivery of 
   quality release. 
 - Winner of Communications and Media Contest during Industrial Summit- 2021.
+```
 
 
 
 ## CERTIFICATIONS AND LEARNINGS
-
+```markdown
 - Successfully passed the Microsoft Azure Fundamentals (AZ-900) exam.
+```
 
 
 
 ## EDUCATION
+```markdown
 
 ### NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN
 - Bachelor of Engineering in Information Technology CGPA 8.78/10
@@ -70,35 +74,6 @@ _Aug 2019 — present_
 ### JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN 
 - passed HSC and SSC with 89.60% and 90.20% respectively.
 
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amruta23897/amruta23897.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
