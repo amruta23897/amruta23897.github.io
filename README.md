@@ -11,6 +11,8 @@
 
 
 
+
+
 **Industry/Domain Telecom :** Testing Strategy & Planning
 
 **Technology/Tools        :** CRM, Selenium, Jira, OSM, CUR,Customer Center, Oracle SQL developer, AIA,TIL, MNP, ASAP, FMW, SOA, UIM, Putty
@@ -18,6 +20,8 @@
 **Concepts/Courses Agile  :** DevOps, Scrum
 
 **Language                :** Core Java, MySQL
+
+
 
 
 
@@ -48,6 +52,8 @@ _Aug 2019 — present_
 
 
 
+
+
 ## Work ACHIEVEMENTS
 
 ```markdown
@@ -60,10 +66,14 @@ _Aug 2019 — present_
 
 
 
+
+
 ## CERTIFICATIONS AND LEARNINGS
 ```markdown
 - Successfully passed the Microsoft Azure Fundamentals (AZ-900) exam.
 ```
+
+
 
 
 
