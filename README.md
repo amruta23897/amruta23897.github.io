@@ -29,7 +29,7 @@ _Aug 2019 — present_
 
 - Working experience of Software Development Life Cycle (SDLC), Software Testing Life Cycle (STLC) 
   and testing methodologies like Agile/Scrum.
-```markdown
+```
 
 ## Work ACHIEVEMENTS
  
