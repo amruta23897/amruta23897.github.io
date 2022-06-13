@@ -3,7 +3,7 @@
 ![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/amruta.JPG?raw=true)
 
 
-### CONTACT ME :
+### CONTACT ME 
 **gmail :**    amrutavmahajani@gmail.com  
 **contact :**  +91-9075198529  
 **linkedin :** [Linkedin Profile](https://www.linkedin.com/in/amruta-mahajani/)
@@ -28,7 +28,7 @@
 
 ## EXPERIENCE
 
-### Application Development Analyst at Accenture 
+**Application Development Analyst at Accenture**
 _Aug 2019 — present_
 
 ```markdown
@@ -80,10 +80,10 @@ _Aug 2019 — present_
 ## EDUCATION
 ```markdown
 
-### NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN
+**NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN**
 - Bachelor of Engineering in Information Technology CGPA 8.78/10
 
-### JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN 
+**JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN**
 - passed HSC and SSC with 89.60% and 90.20% respectively.
 
 ```
