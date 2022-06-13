@@ -1,6 +1,5 @@
 # Welcome to Amruta's page
 
-![alt text](https://github.com/amruta23897/amruta23897.github.io/blob/main/amruta.JPG?raw=true)
 
 
 ### CONTACT ME 
