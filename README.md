@@ -80,10 +80,10 @@ _Aug 2019 — present_
 ## EDUCATION
 ```markdown
 
-**NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN**
+_NBN SINGHAD SCHOOL OF ENGINEERING, 2015-2019 Pune, IN_
 - Bachelor of Engineering in Information Technology CGPA 8.78/10
 
-**JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN**
+_JAWAHAR NAVODAYA VIDYALAYA, 2011-2015 Sindhudurg, IN_
 - passed HSC and SSC with 89.60% and 90.20% respectively.
 
 ```
